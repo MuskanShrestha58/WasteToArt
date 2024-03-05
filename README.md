@@ -1,7 +1,7 @@
 #**Waste to Art** A project for CodeFest-Hackathon By CodeforChange made by Team BKC
 
 
-An e-commerce websapp for Scrap Selling and Buying Recycled Art made from Scrap.
+An e-commerce websapp for trade of Scrap and Recycled Art made from Scrap.
 
 
 
